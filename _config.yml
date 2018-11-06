@@ -1,14 +1,9 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+title:        WhatsApp Plus 2019 Download v6.82 for Android
+tagline:      WhatsApp Plus 2019 Download Latest Version for Android.
+baseurl:      "https://wpplus2019.xyz"
 paginate:     1
 locale:       "en"
-
-# About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
 
 # Gems
 gems:
