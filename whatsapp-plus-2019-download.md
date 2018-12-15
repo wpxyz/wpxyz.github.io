@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: WhatsApp Plus 2019 Download
 ---
 
