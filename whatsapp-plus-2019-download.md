@@ -42,7 +42,7 @@ WA Plus (armeabi-v7a): <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_armeabi-
 WA Plus (arm64-V8a): <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_arm64-v8a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download</a><br />
 WA Plus (x86_64): <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_x86_64@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download</a><br>
  
-<span style="color:red">Download according to your device hardware model. <a href="https://wpplus2019.com/gb-whatsapp-plus-hardware-info/">If you don't know which link to download, read this article. (Click)</a></span>
+<span style="color:red">Download according to your device hardware model. <a href="https://wpplus2019.xyz/gb-whatsapp-plus-hardware-info/">If you don't know which link to download, read this article. (Click)</a></span>
 <hr>
   
 <h2>How to Download WhatsApp Plus?</h2>
